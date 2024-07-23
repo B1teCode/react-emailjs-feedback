@@ -8,7 +8,6 @@ This project is a simple contact form built with React. It allows users to submi
 - [Usage](#usage)
 - [Configuration](#configuration)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Installation
@@ -51,6 +50,27 @@ This project is a simple contact form built with React. It allows users to submi
 
 ## Project Structure
 
+contact-form/
+├── node_modules/
+├── public/
+│ ├── index.html
+│ └── ...
+├── src/
+│ ├── ContactForm.css
+│ ├── ContactForm.js
+│ ├── App.css
+│ ├── App.js
+│ ├── index.js
+│ └── ...
+├── .gitignore
+├── package.json
+├── README.md
+└── ...
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ---
 
 # Проект контактной формы
@@ -63,7 +83,6 @@ This project is a simple contact form built with React. It allows users to submi
 - [Использование](#использование)
 - [Конфигурация](#конфигурация)
 - [Структура проекта](#структура-проекта)
-- [Скриншоты](#скриншоты)
 - [Лицензия](#лицензия)
 
 ## Установка
@@ -106,3 +125,23 @@ This project is a simple contact form built with React. It allows users to submi
 
 ## Структура проекта
 
+contact-form/
+├── node_modules/
+├── public/
+│ ├── index.html
+│ └── ...
+├── src/
+│ ├── ContactForm.css
+│ ├── ContactForm.js
+│ ├── App.css
+│ ├── App.js
+│ ├── index.js
+│ └── ...
+├── .gitignore
+├── package.json
+├── README.md
+└── ...
+
+## Лицензия
+
+Этот проект лицензирован по лицензии MIT. Смотрите файл [LICENSE](LICENSE) для деталей.
