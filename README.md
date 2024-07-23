@@ -7,7 +7,6 @@ This project is a simple contact form built with React. It allows users to submi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [Project Structure](#project-structure)
 - [License](#license)
 
 ## Installation
@@ -48,25 +47,6 @@ This project is a simple contact form built with React. It allows users to submi
     emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', formData, 'YOUR_USER_ID')
     ```
 
-## Project Structure
-
-contact-form/
-├── node_modules/
-├── public/
-│ ├── index.html
-│ └── ...
-├── src/
-│ ├── ContactForm.css
-│ ├── ContactForm.js
-│ ├── App.css
-│ ├── App.js
-│ ├── index.js
-│ └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -82,7 +62,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Установка](#установка)
 - [Использование](#использование)
 - [Конфигурация](#конфигурация)
-- [Структура проекта](#структура-проекта)
 - [Лицензия](#лицензия)
 
 ## Установка
@@ -122,25 +101,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
     ```javascript
     emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', formData, 'YOUR_USER_ID')
     ```
-
-## Структура проекта
-
-contact-form/
-├── node_modules/
-├── public/
-│ ├── index.html
-│ └── ...
-├── src/
-│ ├── ContactForm.css
-│ ├── ContactForm.js
-│ ├── App.css
-│ ├── App.js
-│ ├── index.js
-│ └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
 
 ## Лицензия
 
