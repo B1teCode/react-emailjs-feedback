@@ -14,8 +14,8 @@ This project is a simple contact form built with React. It allows users to submi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/contact-form.git
-    cd contact-form
+    git clone https://github.com/B1teCode/react-emailjs-feedback.git
+    cd react-emailjs-feedback
     ```
 
 2. Install the dependencies:
@@ -69,8 +69,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/your-username/contact-form.git
-    cd contact-form
+    git clone https://github.com/B1teCode/react-emailjs-feedback.git
+    cd react-emailjs-feedback
     ```
 
 2. Установите зависимости:

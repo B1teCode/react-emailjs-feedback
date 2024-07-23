@@ -20,7 +20,7 @@ const ContactForm = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    emailjs.send('service_63nborp', 'template_2dtvg8a', formData, '26wp0ZGs_sogu-lvI')
+    emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', formData, 'YOUR_USER_ID')
       .then((response) => {
         console.log('SUCCESS!', response.status, response.text);
         setMessage('Контакты успешно отправлены!');
